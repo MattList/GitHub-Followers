@@ -35,6 +35,7 @@
 /* Begin PBXFileReference section */
 		6A559BC12839AF75001733CC /* UserInfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserInfoViewController.swift; sourceTree = "<group>"; };
 		6A559BC32839B927001733CC /* GFError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFError.swift; sourceTree = "<group>"; };
+		6A559BC52839D719001733CC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		6A8005282838566C0023682E /* UIHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIHelper.swift; sourceTree = "<group>"; };
 		6A80053128389FDE0023682E /* GFEmptyStateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFEmptyStateView.swift; sourceTree = "<group>"; };
 		6A944FE0283314D0009EE21F /* GitHub Followers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GitHub Followers.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -123,6 +124,7 @@
 		6A944FD7283314D0009EE21F = {
 			isa = PBXGroup;
 			children = (
+				6A559BC52839D719001733CC /* README.md */,
 				6A944FE2283314D0009EE21F /* GitHub Followers */,
 				6A944FE1283314D0009EE21F /* Products */,
 			);
